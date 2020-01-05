@@ -1,0 +1,6 @@
+name: SharePain
+version: ${project.version}
+main: ghaliwang.sharepain.SharePain
+api-version: 1.13
+authors: [ghaliwang]
+description: Share yourr paint with your friends!
